@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/TestLevel.umap",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Player/ArenaMode.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Player/PlayerChar_BP.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Player/PlayerCont_BP.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Player/PlayerProj_BP.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Player/Projectile_Map.uasset"
+			]
+		}
+	]
+}
