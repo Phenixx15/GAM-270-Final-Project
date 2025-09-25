@@ -21,7 +21,11 @@
 				"D:/Unreal Engine Projects/GAM207FinalProject/Content/AI/AICont_BP.uasset",
 				"D:/Unreal Engine Projects/GAM207FinalProject/Content/AI/Tasks/Focus.uasset",
 				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Spawner/SpawnPoint.uasset",
-				"D:/Unreal Engine Projects/GAM207FinalProject/Content/AI/Tasks/Wander.uasset"
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/AI/Tasks/Wander.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Player/Player_W.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/AI/AI_W.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Game/Score_W.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Game/ArenaPlayers.uasset"
 			]
 		}
 	]
