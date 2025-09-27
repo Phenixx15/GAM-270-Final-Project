@@ -25,7 +25,25 @@
 				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Player/Player_W.uasset",
 				"D:/Unreal Engine Projects/GAM207FinalProject/Content/AI/AI_W.uasset",
 				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Game/Score_W.uasset",
-				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Game/ArenaPlayers.uasset"
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Game/ArenaPlayers.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Pickups/Pickup_M.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Pickups/HealthPickup.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Box_0164033A.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Box_1011E778.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Box_2284408A.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Box_2877526F.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Box_6873C9CD.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Box_9CE5F1F9.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Box_C0E3C730.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Box_FFCAA51E.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Cylinder_2D4A357A.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Cylinder_976E9A74.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Cylinder_DC1D6435.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Rectangle_3DA66869.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Rectangle_8364E13A.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Stairs_566818CE.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Stairs_DE692E2A.uasset",
+				"D:/Unreal Engine Projects/GAM207FinalProject/Content/Map/_GENERATED/conra/Torus_0BE17D31.uasset"
 			]
 		}
 	]
